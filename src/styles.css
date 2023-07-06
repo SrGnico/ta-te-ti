@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+*{
+    box-sizing: border-box;
+    transition: background 400ms ease,
+    scale 400ms ease;
+}
+body{
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}

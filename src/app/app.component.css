@@ -24,7 +24,7 @@ main{
     border: 3px solid black;
     border-radius: 5px;
     height: 25svh;
-    width: 25svh;
+    width: 25svw;
     display: flex;
     align-items: center;
     justify-content: center;
